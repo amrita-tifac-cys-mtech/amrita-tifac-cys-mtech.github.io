@@ -30,3 +30,4 @@ This repository hosts the Details of M.Tech Cyber Security Projects
 |  16  | [2022 - 2024](batch/2022-24) |       11        |  
 |  17  | [2023 - 2025](batch/2023-25) |       22        |  
 |  18  | [2024 - 2026](batch/2024-26) |       23        |  
+|  19  | [2025 - 2027](batch/2025-27) |       30        |  
