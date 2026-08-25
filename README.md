@@ -1,10 +1,10 @@
-#  TIFAC-CORE in Cyber Security - M.Tech Projects ![](https://img.shields.io/badge/-Live-brightgreen)
+#  TIFAC-CORE in Cyber Security - M.Tech Dissertations ![](https://img.shields.io/badge/-Live-brightgreen)
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/Amrita-TIFAC-Cyber-Blockchain/.github/refs/heads/main/profile/img/AVV_CYS_Logo.png" alt ="Amrita TIFAC Cyber" width="700" />
 </p>  
 
-This repository hosts the Details of M.Tech Cyber Security Projects
+This repository hosts the Details of M.Tech Cyber Security Dissertations
 
 ## Batchwise Details
 
@@ -30,3 +30,4 @@ This repository hosts the Details of M.Tech Cyber Security Projects
 |  17  | [2023 - 2025](batch/2023-25) |       22        |  
 |  18  | [2024 - 2026](batch/2024-26) |       23        |  
 |  19  | [2025 - 2027](batch/2025-27) |       30        |  
+|  20  | [2026 - 2028](batch/2026-28) |       25        |  
